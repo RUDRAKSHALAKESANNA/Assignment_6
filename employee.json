@@ -1,0 +1,8 @@
+[
+    {"Name": "rudra", "DOB": "06-07-2000", "Height": "5'7\"", "City": "kadapa", "State": "Ap"},
+    {"Name": "kesava", "DOB": "06-07-2001", "Height": "5'8\"", "City": "Banglore", "State": "karnataka"},
+    {"Name": "hari", "DOB": "08-08-1998", "Height": "6.0\"", "City": "Hyderabad", "State": "AP State"}, 
+    {"Name": "vishnu", "DOB": "09-90-1999", "Height": "5.5\"", "City": "chennai", "State": "tamilnadu"},
+    {"Name": "Reddy", "DOB": "12-12-1997", "Height": "6'1\"", "City": "vizag", "State": "Ap"}
+
+]
